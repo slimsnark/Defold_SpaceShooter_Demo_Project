@@ -3,3 +3,4 @@ function on_message(self, message_id, message, sender)
 		go.delete()
 	end	
 end
+--dgdgdgdg
